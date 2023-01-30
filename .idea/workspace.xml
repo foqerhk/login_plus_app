@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f6d2eb5-5ab1-4095-87d4-f395ea07d35e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/login_plus_app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug.xcodeproj/project.xcworkspace/xcuserdata/liuwei.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug.xcodeproj/xcshareddata/xcschemes/Web Login Plug.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug.xcodeproj/xcuserdata/liuwei.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug.xcodeproj/xcuserdata/liuwei.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/AppIcon.appiconset/1024_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/AppIcon.appiconset/128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/AppIcon.appiconset/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/AppIcon.appiconset/256-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/AppIcon.appiconset/256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/AppIcon.appiconset/32-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/AppIcon.appiconset/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/AppIcon.appiconset/512-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/AppIcon.appiconset/512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/AppIcon.appiconset/64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/statusIcon.imageset/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/statusIcon.imageset/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/statusIcon.imageset/64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Assets.xcassets/statusIcon.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/DemoServer.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/Errno.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/Files.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/HttpParser.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/HttpRequest.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/HttpResponse.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/HttpRouter.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/HttpServer.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/HttpServerIO.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/MimeTypes.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/Process.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/Scopes.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/Socket+File.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/Socket+Server.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/Socket.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/String+BASE64.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/String+File.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/String+Misc.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/String+SHA1.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Swifter1.0/WebSockets.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web Login Plug/Web_Login_Plug.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MacOSX/Web Login Plug/Web-Login-Plug-Info.plist" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2L20uSZTu2gLZngj7PWc6OfemDC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f6d2eb5-5ab1-4095-87d4-f395ea07d35e" name="Default Changelist" comment="" />
+      <created>1675054093753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675054093753</updated>
+      <workItem from="1675054095404" duration="1372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
